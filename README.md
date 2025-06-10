@@ -20,7 +20,10 @@ I'm a **`computer engineering and science student`** at WVU and aspire to become
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <br />
 
-# 📊 Stats:
+#
+
+### 📊 Stats
+#
 
 ![](https://nirzak-streak-stats.vercel.app/?user=BrianCode9&theme=dark&hide_border=false)<br/>
 

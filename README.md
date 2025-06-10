@@ -23,9 +23,8 @@ I'm a **`computer engineering and science student`** at WVU and aspire to become
 #
 
 ### 📊 Stats
-#
 
 ![](https://nirzak-streak-stats.vercel.app/?user=BrianCode9&theme=dark&hide_border=false)<br/>
 
----
+
 [![](https://visitcount.itsvg.in/api?id=BrianCode9&icon=0&color=0)](https://visitcount.itsvg.in)

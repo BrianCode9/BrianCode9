@@ -20,14 +20,9 @@ I'm a **`computer engineering and science student`** at WVU and aspire to become
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <br />
 
-
-
-# 📊 GitHub Stats:
+# 📊 Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=BrianCode9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianCode9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BrianCode9&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

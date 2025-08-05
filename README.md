@@ -1,8 +1,6 @@
 # 💫 About Me:
 I'm a **`computer engineering and science student`** at WVU. In my free time, I enjoy posting videos on my [YouTube - Vietlastica](https://www.youtube.com/@Vietlastica) channel about my life and coding!
 
-  about my projects: life and coding.
-
 ### 🧰 Languages and Technologies
 
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>

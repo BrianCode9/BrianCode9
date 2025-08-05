@@ -30,6 +30,7 @@ I'm a **`computer engineering and science student`** at WVU. In my free time, I 
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg?short_path=b9a5693" />
   <br />
 
+
 #
 
 ### 📊 Stats

@@ -19,15 +19,19 @@ I'm a **`computer engineering and science student`** at WVU. In my free time, I 
 
   <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-  <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" />
+  <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" />
+
+  <img align="left" alt="Databricks Suite" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b2b28e0a-77eb-4795-abe4-bc50080f46eb"/>
 
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pycharm/pycharm-original.svg?short_path=17fee95" />
+  <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pycharm/pycharm-original.svg?short_path=17fee95" />
 
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg?short_path=b9a5693" />
+  
+
+  <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg?short_path=b9a5693" />
   <br />
 
 

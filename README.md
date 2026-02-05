@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an **`electrical and computer engineering student`** at WVU. I like messing around with computers.
+I'm an **`electrical and computer engineering student`** at WVU.
 
 ### Languages and Technologies
 

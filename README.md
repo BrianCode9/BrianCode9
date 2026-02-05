@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **`computer engineering and science student`** at WVU. In my free time, I enjoy posting videos on my Youtube Channel [Vietlastica](https://www.youtube.com/@Vietlastica) about my life and coding!
+I'm a **`electrical and computer engineering student`** at WVU. In my free time, I enjoy posting videos on my Youtube Channel [Vietlastica](https://www.youtube.com/@Vietlastica) about my life and coding!
 
 ### 🧰 Languages and Technologies
 

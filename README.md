@@ -25,11 +25,6 @@ I'm an **`electrical and computer engineering student`** at WVU.
 
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    
-  <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pycharm/pycharm-original.svg?short_path=17fee95" />
-
-  <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg?short_path=b9a5693" />
   <br />
 
 

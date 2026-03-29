@@ -26,13 +26,3 @@ I'm an **`electrical and computer engineering student`** at WVU.
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     
   <br />
-
-
-#
-
-### 📊 Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=BrianCode9&theme=dark&hide_border=false)<br/>
-
-
-[![](https://visitcount.itsvg.in/api?id=BrianCode9&icon=0&color=0)](https://visitcount.itsvg.in)
